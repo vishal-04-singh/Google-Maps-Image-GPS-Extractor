@@ -57,13 +57,6 @@ The script generates a CSV file named `example.csv` with the following structure
 - If you encounter `ElementClickInterceptedException`, try increasing the sleep time.
 - Make sure your ChromeDriver version matches your Chrome browser version.
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Instructions for contributing to the project, if applicable]
 
 ## Disclaimer
 
